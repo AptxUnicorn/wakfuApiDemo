@@ -1,0 +1,11 @@
+{
+  "name": "itemsdelamuerte",
+  "version": "1.0.0",
+  "description": "générateur d'items de la muerte pour le bot",
+  "main": "maine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "apo",
+  "license": "ISC"
+}
